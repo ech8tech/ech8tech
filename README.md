@@ -1,14 +1,14 @@
 ### Hi, I'm glad to welcome you! My name is Edward Chagirov, I am 27 y.o. 👋
 ___
 
-I am a **Senior Software Engineer** 👨‍💻 with **7+ years** of experience in B2B, E-Commerce, Legal Tech, and internal company products, specializing in **Front End development**. 
+I am a **Senior Software Engineer** with **7+ years** of experience in B2B, E-Commerce, Legal Tech, and internal company products, specializing in **Front End development**. 
 
-I build **scalable web applications** 🚀 and **intuitive user interfaces** 🎨 that enhance user engagement and conversion rates. </br>
-Proficient in **React** ⚛️, **TypeScript** 📝, **Webpack** 📦, and **CSS preprocessors** 🎨, I ensure quality and reliability by writing tests with **Jest** ✅ and **Testing Library** or **Cypress** 🧪.
+I build **scalable web applications** and **intuitive user interfaces** that enhance user engagement and conversion rates. </br>
+Proficient in **React**, **TypeScript**, **Webpack**, and **CSS preprocessors**, I ensure quality and reliability by writing tests with **Jest** and **Testing Library** or **Cypress**.
 
 Throughout my career, I’ve worked on diverse projects—from developing custom CS-Cart themes to integrating dynamic features on complex web platforms 🔗.
 
-Beyond my technical expertise, **I excel as a leader and mentor** 👨‍🏫. I enjoy guiding team members 🤝, facilitating knowledge-sharing sessions 📚, and refining development workflows 🔄.</br>This collaborative approach has not only boosted team productivity 📈 but also enhanced overall client satisfaction 😊.
+Beyond my technical expertise, **I excel as a leader and mentor**. I enjoy guiding team members, facilitating knowledge-sharing sessions, and refining development workflows.</br>This collaborative approach has not only boosted team productivity but also enhanced overall client satisfaction.
 
 ### Contacts
 | Method           | Contact Information                             |
