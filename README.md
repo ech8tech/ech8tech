@@ -1,4 +1,4 @@
-### Hi, I'm glad to welcome you! My name is Edward Chagirov, I am 27 y.o. 👋
+### Hi, I'm glad to welcome you! My name is Edward Chagirov, I am 28 y.o. 👋
 ___
 
 I am a **Senior Software Engineer** with **7+ years** of experience in B2B, E-Commerce, Legal Tech, and internal company products, specializing in **Front End development**. 
